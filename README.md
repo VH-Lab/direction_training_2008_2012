@@ -34,5 +34,6 @@ Variable (description)
 For example:
 
 z = load('bidirectional_variables.mat');
+
 z.DIbr{1} % all cells that exhibited responses in the naive conditions
 
